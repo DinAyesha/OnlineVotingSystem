@@ -1,0 +1,10 @@
+C:\Users\Akash\Desktop\E-Voting\Voter\bin\Debug\Voter.exe.config
+C:\Users\Akash\Desktop\E-Voting\Voter\bin\Debug\Voter.exe
+C:\Users\Akash\Desktop\E-Voting\Voter\bin\Debug\Voter.pdb
+C:\Users\Akash\Desktop\E-Voting\Voter\obj\Debug\Voter.csproj.AssemblyReference.cache
+C:\Users\Akash\Desktop\E-Voting\Voter\obj\Debug\Voter.Form1.resources
+C:\Users\Akash\Desktop\E-Voting\Voter\obj\Debug\Voter.Properties.Resources.resources
+C:\Users\Akash\Desktop\E-Voting\Voter\obj\Debug\Voter.csproj.GenerateResource.cache
+C:\Users\Akash\Desktop\E-Voting\Voter\obj\Debug\Voter.csproj.CoreCompileInputs.cache
+C:\Users\Akash\Desktop\E-Voting\Voter\obj\Debug\Voter.exe
+C:\Users\Akash\Desktop\E-Voting\Voter\obj\Debug\Voter.pdb

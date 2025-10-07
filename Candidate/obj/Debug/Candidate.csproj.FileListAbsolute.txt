@@ -1,0 +1,13 @@
+C:\Users\Akash\Desktop\E-Voting\Candidate\bin\Debug\Candidate.exe.config
+C:\Users\Akash\Desktop\E-Voting\Candidate\bin\Debug\Candidate.exe
+C:\Users\Akash\Desktop\E-Voting\Candidate\bin\Debug\Candidate.pdb
+C:\Users\Akash\Desktop\E-Voting\Candidate\obj\Debug\Candidate.csproj.AssemblyReference.cache
+C:\Users\Akash\Desktop\E-Voting\Candidate\obj\Debug\Candidate.Form1.resources
+C:\Users\Akash\Desktop\E-Voting\Candidate\obj\Debug\Candidate.Properties.Resources.resources
+C:\Users\Akash\Desktop\E-Voting\Candidate\obj\Debug\Candidate.csproj.GenerateResource.cache
+C:\Users\Akash\Desktop\E-Voting\Candidate\obj\Debug\Candidate.csproj.CoreCompileInputs.cache
+C:\Users\Akash\Desktop\E-Voting\Candidate\obj\Debug\Candidate.exe
+C:\Users\Akash\Desktop\E-Voting\Candidate\obj\Debug\Candidate.pdb
+C:\Users\ajmir\Downloads\E-Voting\E-Voting\Candidate\obj\Debug\Candidate.csproj.AssemblyReference.cache
+C:\Users\ajmir\Downloads\E-Voting\E-Voting\Candidate\obj\Debug\Candidate.exe
+C:\Users\ajmir\Downloads\E-Voting\E-Voting\Candidate\obj\Debug\Candidate.pdb

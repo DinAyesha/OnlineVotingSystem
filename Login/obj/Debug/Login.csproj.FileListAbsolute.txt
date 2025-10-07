@@ -1,0 +1,10 @@
+C:\Users\Akash\Desktop\E-Voting\Login\bin\Debug\Login.exe.config
+C:\Users\Akash\Desktop\E-Voting\Login\bin\Debug\Login.exe
+C:\Users\Akash\Desktop\E-Voting\Login\bin\Debug\Login.pdb
+C:\Users\Akash\Desktop\E-Voting\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Akash\Desktop\E-Voting\Login\obj\Debug\Login.Form1.resources
+C:\Users\Akash\Desktop\E-Voting\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Akash\Desktop\E-Voting\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Akash\Desktop\E-Voting\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Akash\Desktop\E-Voting\Login\obj\Debug\Login.exe
+C:\Users\Akash\Desktop\E-Voting\Login\obj\Debug\Login.pdb
